@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BurgerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc">Protein is an important nutrient, but burgers offer way more than that. Whenever you eat a burger, you\'ll also give your body B-vitamins, iron, zinc, niacin, and other vitamins and minerals. When your body has top-notch fuel, you can boost your energy levels</string>
+</resources>
